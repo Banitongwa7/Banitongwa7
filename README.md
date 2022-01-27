@@ -12,7 +12,7 @@
 
 <br>
 
-<p><img align="center" src="./assets/animation.gif" alt="Banitongwa7" /></p>
+<p align="center"><img src="./assets/animation.gif" alt="Banitongwa7" /></p>
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
@@ -26,12 +26,12 @@
 
 <br>
 
-<a href="https://github.com/Banitongwa7">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banitongwa7&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/Banitongwa7">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=Banitongwa7&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
-</a>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Banitongwa7&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="Banitongwa7" 
+    bg_color=#808080/></p>
 
 <br>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Banitongwa7&show_icons=true&theme=gotham" alt="Banitongwa7" />
+
+  <br>
