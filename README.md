@@ -35,3 +35,5 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Banitongwa7&show_icons=true&theme=gotham" alt="Banitongwa7" />
 
   <br>
+    
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Banitongwa7&theme=github_dark" alt="Banitongwa7" align = "center"/></p>
