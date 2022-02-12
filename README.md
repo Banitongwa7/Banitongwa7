@@ -1,4 +1,4 @@
-[![Banner](./assets/hiphoto.png)]()
+[![Banner](./assets/hiphoto2.png)]()
 
 <br>
 <h3 align="left">Connect with me :</h3>
