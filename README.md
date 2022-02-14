@@ -26,7 +26,7 @@
 
 <br>
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Banitongwa7&show_icons=true&theme=gotham&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Banitongwa7&show_icons=true&theme=gotham&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&langs_count=8"
     alt="Banitongwa7" 
     bg_color=#808080/></p>
 
