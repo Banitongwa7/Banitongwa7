@@ -12,7 +12,7 @@
 
 <br>
 
-<p align="center">![Snake animation](https://github.com/Banitongwa7/Banitongwa7/blob/output/github-contribution-grid-snake.svg)</p>
+![Snake animation](https://github.com/Banitongwa7/Banitongwa7/blob/output/github-contribution-grid-snake.svg)
 
 <br>
 
