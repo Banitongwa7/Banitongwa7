@@ -26,4 +26,4 @@
 
 <br>
     
-<p align="center"><img height="180em" style="border: 1px solid white; border-radius: 5px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Banitongwa7&theme=github_dark" alt="Banitongwa7" align = "center"/></p>
+<p align="center"><img height="180em" style="border: 3px solid white; border-radius: 5px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Banitongwa7&theme=github_dark" alt="Banitongwa7" align = "center"/></p>
