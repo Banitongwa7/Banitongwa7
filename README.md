@@ -12,6 +12,8 @@
 
 <br>
 
+![Snake animation](https://github.com/Banitongwa7/Banitongwa7/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 
 ## &#x1f4c8; GitHub Stats
