@@ -1,7 +1,11 @@
 [![Banner](./assets/hiphoto2.png)]()
 
 <br>
+<div align="center">
 
+![](https://komarev.com/ghpvc/?username=Banitongwa7&color=blue&style=flat)
+
+</div>
 <br>
 
 <p align="center"><img src="./assets/animation.gif" alt="Banitongwa7" /></p>
