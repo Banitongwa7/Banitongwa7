@@ -1,35 +1,36 @@
-[![Banner](./assets/hiphoto2.png)]()
+<img src="./assets/hiphoto2.png" alt="Banner" />
 
 <br>
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Banitongwa7&color=blue&style=flat)
+  <img src="https://komarev.com/ghpvc/?username=Banitongwa7&color=blue&style=flat" />
 
 </div>
 <br>
 
 <p align="center"><img src="./assets/animation.gif" alt="Banitongwa7" /></p>
 
-- 🌱 I’m currently learning Web Development and other programming languages
+<ul>
+  <li>🌱 I’m currently learning Web Development and other programming languages</li>
+  <li>📫 How to reach me <strong>davidbanitongwa@gmail.com</strong></li>
+</ul>
 
-- 📫 How to reach me **davidbanitongwa@gmail.com**
+<br>
+<div align="center">
+<img src="https://github.com/Banitongwa7/Banitongwa7/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+<br>
+
+<h2>📈 GitHub Stats</h2>
 
 <br>
 
-![Snake animation](https://github.com/Banitongwa7/Banitongwa7/blob/output/github-contribution-grid-snake.svg)
-
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Banitongwa7&show_icons=true&theme=gotham&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&langs_count=8" alt="Banitongwa7" bg_color=#808080/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Banitongwa7&show_icons=true&theme=yeblu&langs_count=8" alt="Banitongwa7" bg_color=#808080/></p>
 
 <br/>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Banitongwa7&show_icons=true&theme=gotham" alt="Banitongwa7" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Banitongwa7&show_icons=true&theme=yeblu" alt="Banitongwa7" /></p>
 
 <br>
-    
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Banitongwa7&theme=github_dark" alt="Banitongwa7" align = "center"/></p>
+
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Banitongwa7&theme=yeblu&" alt="Banitongwa7"/></p>
