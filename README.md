@@ -2,9 +2,8 @@
 
 <br>
 <div align="center">
-
   <img src="https://komarev.com/ghpvc/?username=Banitongwa7&color=blue&style=flat" />
-
+  <img alt="Followers" src="https://img.shields.io/github/followers/Banitongwa7" />
 </div>
 <br>
 
