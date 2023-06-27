@@ -1,10 +1,19 @@
 <img src="./assets/hiphoto2.png" alt="Banner" />
 
 <br>
+
+<div align="center">
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Castoro&weight=600&size=22&pause=1000&color=1BF2F7&center=true&width=835&lines=Welcome+to+my+Github+profile+😊+!;I'm+Banitongwa+David;Feel+free+to+browse+through+my+Github+profile+🚀" alt="Typing SVG" /></a>
+</div>
+
+<br>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Banitongwa7&color=blue&style=flat" />
   <img alt="Followers" src="https://img.shields.io/github/followers/Banitongwa7" />
 </div>
+
 <br>
 
 <p align="center"><img src="./assets/animation.gif" alt="Banitongwa7" /></p>
