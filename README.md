@@ -29,11 +29,11 @@
 </div>
 <br>
 
-<h2>📈 GitHub Stats</h2>
+<h2>📈 GitHub Stats - Public Project</h2>
 
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Banitongwa7&show_icons=true&theme=tokyonight&langs_count=8" alt="Banitongwa7" bg_color=#808080/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Banitongwa7&show_icons=true&layout=donut&theme=tokyonight" alt="Banitongwa7" bg_color=#808080/></p>
 
 <br/>
 
