@@ -33,12 +33,16 @@
 
 <br>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Banitongwa7&show_icons=true&layout=donut&theme=tokyonight" alt="Banitongwa7" bg_color=#808080/></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Banitongwa7&show_icons=true&layout=donut&theme=tokyonight" alt="Banitongwa7" bg_color=#808080/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=Banitongwa7&show_icons=true&theme=tokyonight" alt="Banitongwa7" />
+</p>
 
 <br/>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Banitongwa7&show_icons=true&theme=tokyonight" alt="Banitongwa7" /></p>
-
+<!--
+<p align="center"></p>
+-->
 <br>
 
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Banitongwa7&theme=tokyonight" alt="Banitongwa7"/></p>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Banitongwa7&theme=tokyo-night" /></p>
