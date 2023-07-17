@@ -43,4 +43,8 @@
 
 <br>
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Banitongwa7&theme=tokyonight" /></p>
+
+<br/>
+
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Banitongwa7&theme=tokyo-night" /></p>
