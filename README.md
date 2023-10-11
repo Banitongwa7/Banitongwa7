@@ -10,7 +10,7 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Banitongwa7&color=blue&style=flat" />
+  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Banitongwa7/Banitongwa7">
   <img alt="Followers" src="https://img.shields.io/github/followers/Banitongwa7" />
 </div>
 
