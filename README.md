@@ -1,4 +1,4 @@
-<img src="./assets/hiphoto2.png" alt="Banner" />
+<img src="./assets/hiphoto.png" alt="Banner" />
 
 <br>
 
