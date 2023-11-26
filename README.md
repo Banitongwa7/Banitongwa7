@@ -39,13 +39,14 @@
   <img alt="php badge" src="https://img.shields.io/badge/php-2C2F33?logo=php">
   <img alt="pnpm badge" src="https://img.shields.io/badge/pnpm-2C2F33?logo=pnpm">
   <img alt="vite badge" src="https://img.shields.io/badge/vite-2C2F33?logo=vite">
+  
 </div>
 
 <br>
 
 <p align="center"><img src="./assets/animation.gif" alt="Banitongwa7" /></p>
 
-<ul>
+<ul style="list-style-type:none; font-family: monospace; margin-top: 10px; margin-bottom: 10px">
   <li>🌱 I’m currently learning Web Development and other programming languages</li>
   <li>📫 How to reach me <strong>davidbanitongwa@gmail.com</strong></li>
 </ul>
