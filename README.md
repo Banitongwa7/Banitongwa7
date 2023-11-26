@@ -46,7 +46,7 @@
 
 <p align="center"><img src="./assets/animation.gif" alt="Banitongwa7" /></p>
 
-<ul style="list-style-type:none; font-family: monospace; margin-top: 10px; margin-bottom: 10px">
+<ul>
   <li>🌱 I’m currently learning Web Development and other programming languages</li>
   <li>📫 How to reach me <strong>davidbanitongwa@gmail.com</strong></li>
 </ul>
