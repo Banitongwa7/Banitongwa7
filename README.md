@@ -39,6 +39,11 @@
   <img alt="php badge" src="https://img.shields.io/badge/php-2C2F33?logo=php">
   <img alt="pnpm badge" src="https://img.shields.io/badge/pnpm-2C2F33?logo=pnpm">
   <img alt="vite badge" src="https://img.shields.io/badge/vite-2C2F33?logo=vite">
+  <img alt="sass badge" src="https://img.shields.io/badge/sass-2C2F33?logo=sass">
+  <img alt="firebase badge" src="https://img.shields.io/badge/firebase-2C2F33?logo=firebase">
+  <img alt="figma badge" src="https://img.shields.io/badge/figma-2C2F33?logo=figma">
+  <img alt="kubernetes badge" src="https://img.shields.io/badge/kubernetes-2C2F33?logo=kubernetes">
+
   
 </div>
 
