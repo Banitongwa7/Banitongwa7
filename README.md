@@ -49,14 +49,18 @@
 
 <br>
 
+
 <p align="center"><img src="./assets/animation.gif" alt="Banitongwa7" /></p>
 
-<ul>
-  <li>🌱 I’m currently learning Web Development and other programming languages</li>
-  <li>📫 How to reach me <strong>davidbanitongwa@gmail.com</strong></li>
-</ul>
+<div align="center">
+  <p>🌱</p>
+  <p>I’m currently learning Web Development and other programming languages</p>
+  <p>📫</p>
+  <p>How to reach me <span>davidbanitongwa@gmail.com</span></p>
+</div>
 
 <br>
+
 <div align="center">
 <img src="https://github.com/Banitongwa7/Banitongwa7/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
