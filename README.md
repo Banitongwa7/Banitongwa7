@@ -85,3 +85,11 @@
 <br/>
 
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Banitongwa7&theme=tokyo-night" /></p>
+
+<br>
+
+<h2>💖 Thanks for your support</h2>
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/dbanitongwa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+</div>
