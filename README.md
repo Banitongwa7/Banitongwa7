@@ -55,7 +55,6 @@
 <div align="center">
   <p>🌱</p>
   <p>I’m currently learning Web Development and other programming languages</p>
-  <p>📫</p>
   <p>How to reach me <span>davidbanitongwa@gmail.com</span></p>
 </div>
 
@@ -80,7 +79,7 @@
 
 <br>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Banitongwa7&theme=tokyonight" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Banitongwa7" /></p>
 
 <br/>
 
