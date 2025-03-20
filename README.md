@@ -55,7 +55,7 @@
 <div align="center">
   <p>🌱</p>
   <p>I’m currently learning Web Development and other programming languages</p>
-  <p>How to reach me <span>davidbanitongwa@gmail.com</span></p>
+  <p>How to reach me <strong>davidbanitongwa@gmail.com</strong></p>
 </div>
 
 <br>
