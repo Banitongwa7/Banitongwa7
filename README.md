@@ -96,5 +96,5 @@
 <br>
 
 <div>
-<img src="./assets/wave.svg" alt="wave animation" />
+<img src="./assets/wave2.svg" alt="wave animation" />
 </div>
