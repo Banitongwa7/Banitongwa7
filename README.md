@@ -1,4 +1,4 @@
-<img src="./assets/banner.png" alt="Banner" />
+![Banner](./assets/banner.png)
 
 <br>
 
