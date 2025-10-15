@@ -66,6 +66,9 @@
   <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_Pages-0078D4?style=for-the-badge&logo=microsoftpowerpages&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dataverse-107C41?style=for-the-badge&logo=microsoftdataverse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Copilot_Studio-000000?style=for-the-badge&logo=microsoftcopilot&logoColor=white" />
 </p>
 
 <br/>
@@ -74,6 +77,7 @@
 ### 🚀 DevOps, Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
