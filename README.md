@@ -91,7 +91,7 @@
 
 <div align="center">
 
-🔹 **DevOps**, **Data Visualization**, **Microsoft Power Platform**, **Modern Software Architectures** and **More**  
+**DevOps**, **Data Visualization**, **Microsoft Power Platform**, **Modern Software Architectures** and **More**  
 📬 Contact me at [**davidbanitongwa@gmail.com**](mailto:davidbanitongwa@gmail.com)
 
 </div>
