@@ -95,15 +95,15 @@
 
 ## 🌱 Currently Learning
 
+<p align="center">
+  <img src="./assets/juggling.gif" alt="animation" width="380" />
+</p>
 <div align="center">
 
 **DevOps**, **Data Visualization**, **Microsoft Power Platform**, **Modern Software Architectures** and **More**  
 
 </div>
 
-<p align="center">
-  <img src="./assets/animation2.gif" alt="animation" width="380" />
-</p>
 
 ---
 
@@ -157,5 +157,5 @@ If my work inspires or helps you, consider supporting me 💛
 </p>
 
 <p align="center">
-  <img src="./assets/wave4.svg" alt="wave animation" />
+  <img src="./assets/welcome.gif" alt="wave animation" />
 </p>
