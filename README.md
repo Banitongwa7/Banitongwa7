@@ -157,5 +157,5 @@ If my work inspires or helps you, consider supporting me 💛
 </p>
 
 <p align="center">
-  <img src="./assets/wave2.svg" alt="wave animation" />
+  <img src="./assets/wave4.svg" alt="wave animation" />
 </p>

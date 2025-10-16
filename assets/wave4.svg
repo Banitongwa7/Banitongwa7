@@ -1,0 +1,203 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1300 400">
+<defs>
+  <!-- Modern gradient for sky -->
+  <linearGradient id="skyGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" style="stop-color:#0c2461;stop-opacity:1" />
+    <stop offset="50%" style="stop-color:#1e3799;stop-opacity:1" />
+    <stop offset="100%" style="stop-color:#4a69bd;stop-opacity:1" />
+  </linearGradient>
+  
+  <!-- Wave filter for depth -->
+  <filter id="waveBlur" x="-5%" y="-5%" width="110%" height="110%">
+    <feGaussianBlur in="SourceGraphic" stdDeviation="2" />
+  </filter>
+  
+  <!-- Modern shimmer effect -->
+  <radialGradient id="shimmer" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+    <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.8">
+      <animate attributeName="stop-opacity" values="0.8;0.3;0.8" dur="3s" repeatCount="indefinite" />
+    </stop>
+    <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0" />
+  </radialGradient>
+  
+  <!-- Bubble gradient -->
+  <radialGradient id="bubbleGradient" cx="30%" cy="30%" r="70%">
+    <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.8" />
+    <stop offset="100%" style="stop-color:#ffffff;stop-opacity:0" />
+  </radialGradient>
+</defs>
+
+<!-- Sky Background -->
+<rect x="0" y="0" width="1300" height="400" fill="url(#skyGradient)" />
+
+<!-- Stars -->
+<g opacity="0.6">
+  <circle cx="150" cy="50" r="1" fill="#ffffff">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="4s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="300" cy="80" r="0.8" fill="#ffffff">
+    <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="500" cy="40" r="1.2" fill="#ffffff">
+    <animate attributeName="opacity" values="0.2;0.7;0.2" dur="5s" repeatCount="indefinite" />
+  </circle>
+</g>
+
+<!-- Moon -->
+<circle cx="1100" cy="80" r="40" fill="#f6f6f6">
+  <animate attributeName="opacity" values="0.9;1;0.9" dur="4s" repeatCount="indefinite" />
+</circle>
+<circle cx="1085" cy="65" r="5" fill="#e0e0e0" />
+
+<!-- Moon glow -->
+<circle cx="1100" cy="80" r="50" fill="#f6f6f6" opacity="0.2">
+  <animate attributeName="r" values="50;55;50" dur="3s" repeatCount="indefinite" />
+</circle>
+
+<!-- Distant mountains -->
+<path d="M-50,180 C100,150 200,170 350,160 C500,150 600,170 750,160 C900,150 1000,160 1150,165 C1300,170 1400,150 1500,160 L1500,180 L-50,180 Z" fill="#1e3799" opacity="0.4" />
+
+<!-- Water shimmer highlights -->
+<ellipse cx="650" cy="150" rx="40" ry="15" fill="url(#shimmer)" opacity="0.7">
+  <animate attributeName="cx" values="650;670;650" dur="8s" repeatCount="indefinite" />
+  <animate attributeName="rx" values="40;45;40" dur="8s" repeatCount="indefinite" />
+</ellipse>
+<ellipse cx="350" cy="130" rx="30" ry="12" fill="url(#shimmer)" opacity="0.6">
+  <animate attributeName="cx" values="350;365;350" dur="10s" repeatCount="indefinite" />
+</ellipse>
+<ellipse cx="950" cy="140" rx="35" ry="14" fill="url(#shimmer)" opacity="0.5">
+  <animate attributeName="cx" values="950;970;950" dur="9s" repeatCount="indefinite" />
+</ellipse>
+
+<!-- Deep water layer -->
+<path fill="#0c2461" opacity="0.3" d="M0,220 C200,200 400,240 600,220 C800,200 1000,240 1300,220 L1300,400 L0,400 Z">
+  <animate 
+    attributeName="d" 
+    dur="15s"
+    repeatCount="indefinite"
+    values="M0,220 C200,200 400,240 600,220 C800,200 1000,240 1300,220 L1300,400 L0,400 Z;
+            M0,230 C200,210 400,250 600,230 C800,210 1000,250 1300,230 L1300,400 L0,400 Z;
+            M0,220 C200,200 400,240 600,220 C800,200 1000,240 1300,220 L1300,400 L0,400 Z"
+  />
+</path>
+
+<!-- First wave layer - deep blue -->
+<path class="wave" fill="#1e3799" opacity="0.7" d="M0,200 C250,240 400,180 600,220 C800,260 950,190 1300,230 L1300,400 L0,400 Z">
+  <animate 
+    attributeName="d" 
+    dur="12s"
+    repeatCount="indefinite"
+    values="M0,200 C250,240 400,180 600,220 C800,260 950,190 1300,230 L1300,400 L0,400 Z;
+            M0,210 C250,190 400,250 600,210 C800,170 950,240 1300,200 L1300,400 L0,400 Z;
+            M0,200 C250,240 400,180 600,220 C800,260 950,190 1300,230 L1300,400 L0,400 Z"
+  />
+</path>
+
+<!-- Second wave layer - medium blue -->
+<path class="wave" fill="#4a69bd" opacity="0.8" d="M0,230 C300,260 450,200 700,240 C950,280 1100,220 1300,250 L1300,400 L0,400 Z" filter="url(#waveBlur)">
+  <animate 
+    attributeName="d" 
+    dur="10s"
+    repeatCount="indefinite"
+    values="M0,230 C300,260 450,200 700,240 C950,280 1100,220 1300,250 L1300,400 L0,400 Z;
+            M0,240 C300,210 450,270 700,230 C950,190 1100,260 1300,220 L1300,400 L0,400 Z;
+            M0,230 C300,260 450,200 700,240 C950,280 1100,220 1300,250 L1300,400 L0,400 Z"
+  />
+</path>
+
+<!-- Third wave layer - light blue -->
+<path class="wave" fill="#6a89cc" opacity="0.9" d="M0,260 C350,290 500,230 800,270 C1100,310 1200,250 1300,270 L1300,400 L0,400 Z">
+  <animate 
+    attributeName="d" 
+    dur="8s"
+    repeatCount="indefinite"
+    values="M0,260 C350,290 500,230 800,270 C1100,310 1200,250 1300,270 L1300,400 L0,400 Z;
+            M0,270 C350,240 500,300 800,260 C1100,220 1200,280 1300,250 L1300,400 L0,400 Z;
+            M0,260 C350,290 500,230 800,270 C1100,310 1200,250 1300,270 L1300,400 L0,400 Z"
+  />
+</path>
+
+<!-- Foam layer -->
+<path class="wave" fill="#ffffff" opacity="0.3" d="M0,280 C400,310 550,250 900,290 C1150,320 1250,270 1300,290 L1300,400 L0,400 Z">
+  <animate 
+    attributeName="d" 
+    dur="6s"
+    repeatCount="indefinite"
+    values="M0,280 C400,310 550,250 900,290 C1150,320 1250,270 1300,290 L1300,400 L0,400 Z;
+            M0,290 C400,260 550,320 900,280 C1150,240 1250,300 1300,270 L1300,400 L0,400 Z;
+            M0,280 C400,310 550,250 900,290 C1150,320 1250,270 1300,290 L1300,400 L0,400 Z"
+  />
+</path>
+
+<!-- Bubbles -->
+<g opacity="0.6">
+  <circle cx="200" cy="350" r="3" fill="url(#bubbleGradient)">
+    <animate attributeName="cy" values="350;320;350" dur="7s" repeatCount="indefinite" />
+    <animate attributeName="cx" values="200;210;200" dur="7s" repeatCount="indefinite" />
+    <animate attributeName="r" values="3;2;3" dur="7s" repeatCount="indefinite" />
+  </circle>
+  
+  <circle cx="450" cy="340" r="2" fill="url(#bubbleGradient)">
+    <animate attributeName="cy" values="340;310;340" dur="8s" repeatCount="indefinite" />
+    <animate attributeName="cx" values="450;445;450" dur="8s" repeatCount="indefinite" />
+  </circle>
+  
+  <circle cx="750" cy="345" r="2.5" fill="url(#bubbleGradient)">
+    <animate attributeName="cy" values="345;315;345" dur="6s" repeatCount="indefinite" />
+    <animate attributeName="cx" values="750;760;750" dur="6s" repeatCount="indefinite" />
+  </circle>
+  
+  <circle cx="1050" cy="335" r="1.5" fill="url(#bubbleGradient)">
+    <animate attributeName="cy" values="335;305;335" dur="9s" repeatCount="indefinite" />
+    <animate attributeName="cx" values="1050;1045;1050" dur="9s" repeatCount="indefinite" />
+  </circle>
+</g>
+
+<!-- Modern boat -->
+<g transform="translate(180, 280)" opacity="0.9">
+  <!-- Boat hull -->
+  <path d="M0,5 Q15,-5 30,5 L25,15 L5,15 Z" fill="#2d3436" />
+  <!-- Mast -->
+  <rect x="13" y="-20" width="2" height="25" fill="#2d3436" />
+  <!-- Sail -->
+  <path d="M14,-20 Q24,-10 14,0 Z" fill="#ffffff" >
+    <animate attributeName="d" 
+      values="M14,-20 Q24,-10 14,0 Z; M14,-20 Q22,-15 14,0 Z; M14,-20 Q24,-10 14,0 Z" 
+      dur="4s" repeatCount="indefinite" />
+  </path>
+  
+  <!-- Boat animation -->
+  <animateTransform
+    attributeName="transform"
+    type="translate"
+    values="180,280; 1000,290; 180,280"
+    dur="25s"
+    repeatCount="indefinite" />
+    
+  <animateTransform
+    attributeName="transform"
+    type="rotate"
+    additive="sum"
+    values="0; 3; 0; -2; 0"
+    dur="6s"
+    repeatCount="indefinite" />
+</g>
+
+<!-- Floating particles / sparkles -->
+<g opacity="0.7">
+  <circle cx="100" cy="150" r="1" fill="#ffffff">
+    <animate attributeName="cy" values="150;145;150" dur="4s" repeatCount="indefinite" />
+    <animate attributeName="cx" values="100;102;100" dur="4s" repeatCount="indefinite" />
+  </circle>
+  
+  <circle cx="600" cy="120" r="0.8" fill="#ffffff">
+    <animate attributeName="cy" values="120;115;120" dur="5s" repeatCount="indefinite" />
+    <animate attributeName="cx" values="600;603;600" dur="5s" repeatCount="indefinite" />
+  </circle>
+  
+  <circle cx="900" cy="140" r="1.2" fill="#ffffff">
+    <animate attributeName="cy" values="140;135;140" dur="3.5s" repeatCount="indefinite" />
+    <animate attributeName="cx" values="900;898;900" dur="3.5s" repeatCount="indefinite" />
+  </circle>
+</g>
+</svg>

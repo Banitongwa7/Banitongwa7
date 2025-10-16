@@ -1,0 +1,65 @@
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+                <!-- Background elements -->
+                <rect x="0" y="0" width="400" height="300" fill="#161b22" />
+                
+                <!-- Terminal window -->
+                <rect x="50" y="40" width="300" height="180" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="2" />
+                <circle cx="65" cy="55" r="5" fill="#ff5f57" />
+                <circle cx="85" cy="55" r="5" fill="#ffbd2e" />
+                <circle cx="105" cy="55" r="5" fill="#28ca42" />
+                
+                <!-- Code lines with typing animation -->
+                <text x="70" y="85" font-family="monospace" font-size="14" fill="#58a6ff">
+                    <tspan x="70" y="85">$ </tspan>
+                    <tspan class="typing" fill="#c9d1d9">git commit -m "feat: add new component"</tspan>
+                </text>
+                
+                <text x="70" y="110" font-family="monospace" font-size="14" fill="#58a6ff">
+                    <tspan x="70" y="110">$ </tspan>
+                    <tspan class="typing" fill="#c9d1d9">npm run build</tspan>
+                </text>
+                
+                <text x="70" y="135" font-family="monospace" font-size="14" fill="#58a6ff">
+                    <tspan x="70" y="135">$ </tspan>
+                    <tspan class="typing" fill="#c9d1d9">docker push registry/app:v1.2</tspan>
+                </text>
+                
+                <text x="70" y="160" font-family="monospace" font-size="14" fill="#58a6ff">
+                    <tspan x="70" y="160">$ </tspan>
+                    <tspan class="typing" fill="#c9d1d9">kubectl apply -f deployment.yaml</tspan>
+                </text>
+                
+                <!-- Cursor -->
+                <rect id="cursor" x="345" y="160" width="8" height="16" fill="#58a6ff">
+                    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+                </rect>
+                
+                <!-- Floating code brackets -->
+                <text x="30" y="120" font-family="monospace" font-size="24" fill="#58a6ff" opacity="0.7">
+                    <animate attributeName="y" values="120;110;120" dur="3s" repeatCount="indefinite" />
+                    { }
+                </text>
+                
+                <text x="370" y="180" font-family="monospace" font-size="24" fill="#58a6ff" opacity="0.7">
+                    <animate attributeName="y" values="180;190;180" dur="3s" repeatCount="indefinite" />
+                    &lt;/&gt;
+                </text>
+                
+                <!-- Binary stream animation -->
+                <text x="50" y="250" font-family="monospace" font-size="12" fill="#3fb950" opacity="0.6">
+                    <animate attributeName="x" values="400; -100" dur="8s" repeatCount="indefinite" />
+                    10101010 01010101 11110000 00001111 10101010 01010101
+                </text>
+                
+                <!-- Server rack visualization -->
+                <rect x="150" y="200" width="100" height="60" fill="#21262d" stroke="#30363d" stroke-width="1" />
+                <rect x="160" y="210" width="80" height="10" fill="#3fb950">
+                    <animate attributeName="fill" values="#3fb950;#238636;#3fb950" dur="2s" repeatCount="indefinite" />
+                </rect>
+                <rect x="160" y="225" width="60" height="10" fill="#3fb950">
+                    <animate attributeName="fill" values="#3fb950;#238636;#3fb950" dur="1.5s" repeatCount="indefinite" />
+                </rect>
+                <rect x="160" y="240" width="70" height="10" fill="#3fb950">
+                    <animate attributeName="fill" values="#3fb950;#238636;#3fb950" dur="2.5s" repeatCount="indefinite" />
+                </rect>
+            </svg>
