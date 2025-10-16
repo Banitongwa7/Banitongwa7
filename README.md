@@ -98,7 +98,6 @@
 <div align="center">
 
 **DevOps**, **Data Visualization**, **Microsoft Power Platform**, **Modern Software Architectures** and **More**  
-📬 Contact me at [**davidbanitongwa@gmail.com**](mailto:davidbanitongwa@gmail.com)
 
 </div>
 
@@ -144,6 +143,10 @@ If my work inspires or helps you, consider supporting me 💛
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://david-banitongwa.vercel.app/)
+
+**or**
+
+📬 Contact me at [**davidbanitongwa@gmail.com**](mailto:davidbanitongwa@gmail.com)
 
 </div>
 
