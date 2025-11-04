@@ -130,8 +130,8 @@
 
 If my work inspires or helps you, consider supporting me 💛
 
-<a href="https://www.buymeacoffee.com/dbanitongwa" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" />
+<a href="https://www.paypal.com/donate/?hosted_button_id=PK9LWAK6J5C68" target="_blank">
+  <img src="https://img.shields.io/badge/Donate-PayPal-blue?logo=paypal&style=for-the-badge" alt="PayPal" height="60" />
 </a>
 
 </div>
